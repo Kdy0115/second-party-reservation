@@ -7,4 +7,5 @@ services:
     tty: true
     volumes:
       - ./demo:/srv:cached
-    working_dir: /srv
+    working_dir: /srvls
+    
